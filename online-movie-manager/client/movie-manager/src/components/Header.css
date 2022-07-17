@@ -1,0 +1,40 @@
+.navlinks{
+    display: inline-block;
+    margin-right: 10px;
+    color: black;
+   
+}
+
+.navlinks:hover{
+    border-bottom: 1px solid blue;
+}
+
+.section-line{
+margin-top: 0;
+}
+
+
+nav-container{
+    text-align: left !important;
+    width: 80%;
+}
+
+
+.search{
+    display:  inline-block;
+}
+
+
+.btn{
+height: 50px;
+}
+
+.s-icon{
+    margin: auto;
+    padding: 0;
+    height: 28px !important;
+    border: 1px solid black;
+    position: relative;
+    top: 0;
+    left: 0;
+}

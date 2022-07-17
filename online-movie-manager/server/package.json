@@ -1,0 +1,16 @@
+{
+  "name": "online-movie-manager",
+  "version": "1.0.0",
+  "description": "app for online movie managment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server db.json"
+  },
+  "author": "gowtham",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "jsonserver": "^0.1.6"
+  }
+}
